@@ -1,4 +1,4 @@
-### Hi there
+### Hi there,
 
 I am Senior Software Engineer with 5 years of relevant experience in creating software. I am based in Paris, France. Currenlty, I am working at [Sesame IT](https://sesame-it.com/). I have a keen interest with Blockchain, Cryptography and Finance. I am also interested in modern programming languages, espacially Rust and Go.  
 
