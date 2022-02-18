@@ -8,7 +8,7 @@ Now, I am spending my time on:
 - Diving into the blockchain/crypto world.
 
 Interests:
-- Blockchain technologies ([Substrate](https://substrate.io/))
+- Blockchain technologies (Ethereum, Solana)
 - Peer to Peer Networking ([libp2p](https://libp2p.io/))
 - Smart Contracts and [Solidity](https://github.com/ethereum/solidity)
 - Cryptograhphy
