@@ -6,9 +6,3 @@ Now, I am spending my time on:
 
 - Focusing on Idiomatic Rust.
 - Diving into the blockchain/crypto world.
-
-Interests:
-- Blockchain technologies (Ethereum, Solana)
-- Peer to Peer Networking ([libp2p](https://libp2p.io/))
-- Smart Contracts and [Solidity](https://github.com/ethereum/solidity)
-- Cryptograhphy
